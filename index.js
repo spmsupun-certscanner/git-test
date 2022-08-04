@@ -1,1 +1,1 @@
-alert("d2 ")
+alert("wwww 2 ")
