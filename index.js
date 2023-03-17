@@ -1,2 +1,1 @@
-zzzzzzzz
-whaaat
+alert("d2  dd")
